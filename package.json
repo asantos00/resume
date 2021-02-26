@@ -8,7 +8,7 @@
     "preexport-pdf": "node scripts/spell-check.js",
     "preexport-html": "node scripts/spell-check.js",
     "export-pdf": "resume export resume.pdf",
-    "export-html": "resume export resume.html",
+    "export-html": "resume export index.html",
     "serve": "resume serve"
   },
   "keywords": [],
