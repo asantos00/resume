@@ -1,5 +1,7 @@
 # JSONResume toolset
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ae53e4da-d466-4574-821e-3394dca48e40/deploy-status)](https://app.netlify.com/sites/alexandrempsantos-resume/deploys)
+
 This is a tool made to help building JSONResume CVs, it mainly adds a spellchecker.
 
 If you wanna check how it looks, [here it is](./example.pdf).
