@@ -2,6 +2,8 @@
 
 This is a tool made to help building JSONResume CVs, it mainly adds a spellchecker.
 
+If you wanna check how it looks, [here it is](./example.pdf).
+
 ## How to install a theme
 
 - Choose your theme (https://jsonresume.org/themes/)

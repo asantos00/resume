@@ -17,7 +17,9 @@
   "dependencies": {
     "colors": "^1.4.0",
     "enquirer": "^2.3.6",
+    "jsonresume-theme-classy": "^1.0.9",
     "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-stackoverflow": "^1.4.0",
     "resume-cli": "^3.0.4",
     "spellchecker": "^3.7.1"
   }
