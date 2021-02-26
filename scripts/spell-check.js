@@ -69,6 +69,8 @@ async function run() {
           }).then(({ question }) => {
             if (question) {
               addWord(word);
+
+              return;
             }
             typos.push([word, sectionName, error.start, error.end]);
           });
