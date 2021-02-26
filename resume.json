@@ -1,8 +1,7 @@
-
 {
   "basics": {
-    "name": "Alexandre Santos",
-    "label": "Engineering Lead / Full-stack developer",
+    "name": "Alexandre Portela dos Santos",
+    "label": "Engineering lead / Full-stack developer",
     "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
     "summary": "I'm a software engineer passionate about products and startups. For the last 8+ years, I've been working together with multiple companies, using technology as an enabler for ideas and businesses. With a big interest in education and getting people excited about technology, I makes sure I'm always involved with people that are learning about it, being it via blog posts, books, open source contributions, or meetups. This is, by itself, a learning adventure that I loves to be a part of. Being a true believer that great software only happens through collaboration, ownership, and teams of great people, I strives to nurture those values in every project he works in.",
     "website": "https://alexandrempsantos.com",
@@ -42,23 +41,58 @@
   "skills": [
     {
       "keywords": [
-        "JavaScript / TypeScript",
+        "JavaScript",
+        "TypeScript",
         "SCSS / CSS / CSS in JS",
-        "React / Next",
-        "Redux / Mobx"
+        "React",
+        "Next",
+        "Redux",
+        "Mobx"
       ],
-      "level": "Senior",
-      "name": "Frontend"
+      "level": "master",
+      "name": "Front-end"
     },
     {
       "keywords": ["Node.js", "Deno", "Python", "Golang"],
-      "level": "Medium",
-      "name": "Backend"
+      "level": "intermediate",
+      "name": "Back-end"
+    },
+    {
+      "keywords": [
+        "Heroku",
+        "Netlify",
+        "Kubernetes",
+        "Docker",
+        "Jenkins",
+        "CircleCI"
+      ],
+      "level": "intermediate",
+      "name": "Infrastructure"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "native speaker"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Deno Web Development",
+      "publisher": "PacktPub",
+      "releaseDate": "2020-04-01",
+      "keywords": ["Deno", "JavaScript", "TypeScript", "Web Development"],
+      "website": "https://deno-web-development.com",
+      "summary": "Write, test, maintain and deploy JavaScript and TypeScript web applications using Deno. A complete book with step-by-step explanations of Deno’s primitives, using them to build real-word applications."
     }
   ],
   "work": [
     {
-      "summary": "cloudmobility provides a single-purpose-cloud that enables mobility & transportation products. Cloudmobility offers specialized tools for customers building and maitaining mobility applications",
+      "summary": "cloudmobility provides a single-purpose-cloud that enables mobility & transportation products. It is a platform that offers specialized tools for customers building and maitaining mobility applications and businesses",
       "website": "https://cloudmobility.io/",
       "company": "cloudmobility via KI labs",
       "location": "Lisbon",
@@ -71,7 +105,8 @@
         "Constantly monitor and improved team dynamics, enginering practices, and lead ceremonies",
         "Lead a 5 person cross-functional team",
         "Presented multiple company-wide demonstrations of the product",
-        "React, Redux, CSS-in-JS, Cypress, react-testing-library, Jest, golang, Jenkins"
+        "Mentoring and pair-programming with other developers",
+        "React, Redux, CSS-in-JS, Cypress, react-testing-library, Jest, golang, Jenkins, Kubernetes, Docker"
       ]
     },
     {
@@ -124,7 +159,7 @@
       "location": "Lisbon",
       "position": "Instructor - Web development",
       "startDate": "2015-11-01",
-      "endDate": "2016-02-30",
+      "endDate": "2016-02-28",
       "highlights": [
         "Create and develop web development curriculum",
         "Develop, grade and evaluate tests",

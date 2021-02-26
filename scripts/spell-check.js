@@ -18,11 +18,9 @@ async function addWordsToDicionary() {
 async function addWord(value) {
   let words = db.get("words") || [];
 
-  if (words.includes(value)) {
-    return;
+  if (!words.includes(value)) {
+    db.set("words", words.concat(value));
   }
-
-  db.set("words", words.concat(value));
 
   const json = [...db.keys()].reduce((json, key) => {
     return {
