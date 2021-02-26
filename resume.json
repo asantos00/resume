@@ -1,0 +1,188 @@
+
+{
+  "basics": {
+    "name": "Alexandre Santos",
+    "label": "Engineering Lead / Full-stack developer",
+    "image": "https://avatars0.githubusercontent.com/u/416209?s=460&u=38f220a2c9c658141804f881c334c594eb1642ac&v=4",
+    "summary": "I'm a software engineer passionate about products and startups. For the last 8+ years, I've been working together with multiple companies, using technology as an enabler for ideas and businesses. With a big interest in education and getting people excited about technology, I makes sure I'm always involved with people that are learning about it, being it via blog posts, books, open source contributions, or meetups. This is, by itself, a learning adventure that I loves to be a part of. Being a true believer that great software only happens through collaboration, ownership, and teams of great people, I strives to nurture those values in every project he works in.",
+    "website": "https://alexandrempsantos.com",
+    "email": "alexandre.santozz@gmail.com",
+    "location": {
+      "city": "Ericeira, Lisbon",
+      "countryCode": "PT"
+    },
+    "profiles": [
+      {
+        "username": "ampsantos0",
+        "url": "https://twitter.com/ampsantos0",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/asantos00",
+        "username": "asantos00",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2012-06-01",
+      "startDate": "2009-09-01",
+      "area": "IT",
+      "studyType": "Technical",
+      "institution": "Escola Técnica e Profissional de Mafra"
+    }
+  ],
+  "references": [
+    {
+      "reference": "From time to time, and not so often we are toasted with professionals that can blow our mind. They surprise you, not only for their hard skills, but mainly for the soft skills and for the people they really are. \n Well, Alexandre is simply, one of the most incredible people I had the pleasure to work with and I am lucky enough to keep talking and be with him often. I have always something to learn with him and it's a real pleasure to feel his amazing energy. It's contagious...much more than Covid19. \n Alexandre is not only a fast learner and a fantastic coder with a natural talent to communicate, but he is, mainly, a strategical thinker, an innate curious mind and a super intelligent and driven person. \n Apart from that, he has a great humor, is a huge team player and the kind of person everyone wants to be around with. \n It was and it is an honor to call him friend and to have him as one of our advisors at Agroop. Keep sharing and showing your magic. I will be always paying attention ;)",
+      "name": "Bruno Fonseca, CEO @ Agroop"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "JavaScript / TypeScript",
+        "SCSS / CSS / CSS in JS",
+        "React / Next",
+        "Redux / Mobx"
+      ],
+      "level": "Senior",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node.js", "Deno", "Python", "Golang"],
+      "level": "Medium",
+      "name": "Backend"
+    }
+  ],
+  "work": [
+    {
+      "summary": "cloudmobility provides a single-purpose-cloud that enables mobility & transportation products. Cloudmobility offers specialized tools for customers building and maitaining mobility applications",
+      "website": "https://cloudmobility.io/",
+      "company": "cloudmobility via KI labs",
+      "location": "Lisbon",
+      "position": "Engineering lead - namespaces as a service product",
+      "startDate": "2019-03-12",
+      "highlights": [
+        "Designed and implemented full-refactor of a React + Redux application which was the point of entry to everyone using the platform",
+        "Evangelized testing practices",
+        "Researched, developed PoCs, and scoped engineering roadmaps",
+        "Constantly monitor and improved team dynamics, enginering practices, and lead ceremonies",
+        "Lead a 5 person cross-functional team",
+        "Presented multiple company-wide demonstrations of the product",
+        "React, Redux, CSS-in-JS, Cypress, react-testing-library, Jest, golang, Jenkins"
+      ]
+    },
+    {
+      "summary": "Agroop provides solutions that enable farmers and consultants to get the best out of their crops. Their products help customers by providing detailed data and insights about the crops, enabling up to 32% of water and energy savings",
+      "website": "https://agroop.net",
+      "company": "Agroop",
+      "location": "Lisbon",
+      "position": "Engineering Advisor",
+      "startDate": "2020-05-01",
+      "highlights": [
+        "Help the company on product/engineering topics",
+        "Regularly meeting the engineering team, discussing practices and strategies to help growing the team and product"
+      ]
+    },
+    {
+      "summary": "Chemondis is the leading European B2B marketplace for chemicals. The company aims to make it easy for chemical companies to buy and sell products online, facilitating deals, quotations, and all the negotiation and discovery process.",
+      "website": "https://chemondis.com/",
+      "company": "Chemondis via KI labs",
+      "location": "Lisbon",
+      "position": "Senior full-stack developer",
+      "startDate": "2018-08-06",
+      "endDate": "2019-03-12",
+      "highlights": [
+        "Architected the React front-end application and lead the efforts to migrate from the jQuery + SSR pages.",
+        "Defined standards for testing, engineering practices and coding guidelines for the front-end stack",
+        "Python, Django, React, Redux, Jest, Jenkins"
+      ]
+    },
+    {
+      "summary": "Uniplaces is the marketplace for student accommodation. It provides service for landlords to list, interact and manage tenants and their stay. It's the go-to place for students to find accommodation abroad in many Europe cities",
+      "website": "https://uniplaces.com/",
+      "company": "Uniplaces",
+      "location": "Lisbon",
+      "position": "Full-stack developer",
+      "startDate": "2016-10-01",
+      "endDate": "2018-07-30",
+      "highlights": [
+        "Develop and maintain Ember.js applications. Owner of the checkout front-end application",
+        "Architect and develop the Search project's frontend from scratch. Defining testing, coding and engineering guidelines",
+        "Strong part of JavaScript tribe that discussed company-wide JavaScript topics",
+        "Development of golang search API connected to ElasticSearch database",
+        "Maintenance of a core Symfony API",
+        "Ember.js, GraphQL, Node, Symfony PHP, golang"
+      ]
+    },
+    {
+      "summary": "Flag is a learning center focused on technology topics. It teaches topics from Web development to design, and mobile development",
+      "website": "https://flag.pt",
+      "company": "FLAG",
+      "location": "Lisbon",
+      "position": "Instructor - Web development",
+      "startDate": "2015-11-01",
+      "endDate": "2016-02-30",
+      "highlights": [
+        "Create and develop web development curriculum",
+        "Develop, grade and evaluate tests",
+        "Lecture a class of 20 students of all ages and experiences",
+        "Introduce lecturers to fundamental web development topics. From DNS and how a page is served, to JavaScript and interacting with a backend"
+      ]
+    },
+    {
+      "summary": "Agroop provides solutions that enable farmers and consultants to get the best out of their crops. Their products help customers by providing detailed data and insights about the crops, enabling up to 32% of water and energy savings",
+      "website": "https://agroop.net",
+      "company": "Agroop",
+      "location": "Lisbon",
+      "position": "Lead front-end developer",
+      "startDate": "2015-05-01",
+      "endDate": "2016-10-30",
+      "highlights": [
+        "Maintain a Backbone.js application. Implementing practices to improve code discovery and reliability",
+        "Architect and develop two complete PhoneGap applications, sharing code between mobile and web applications",
+        "Defined standards and guidelines to develop React + Redux applications inside the company",
+        "Mentor developers and evangelize testing and software architecture practices",
+        "React, Backbone, SCSS, Jest, Enzyme, Jenkins"
+      ]
+    },
+    {
+      "summary": "iSimplex develops web based home automation products. It aims to be the hub for home automation, from basics like lighting control, to ambient sound, home cinema, and security concerns of the customers home",
+      "website": "https://isimplex.com",
+      "company": "iSimplex",
+      "location": "Lisbon",
+      "position": "Junior full-stack developer / designer",
+      "startDate": "2013-07-01",
+      "endDate": "2015-04-30",
+      "highlights": [
+        "Create and develop the company website",
+        "Develop multiple web applications to demonstrate the product capacities",
+        "Develop and maintain a platform to manage products, customers, and customer hardware status using Laravel + Angular.jS",
+        "Research and design product screens' UI and UX experience",
+        "Laravel, Angular.JS, jQuery, Material-UI"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Blogging"
+    },
+    {
+      "name": "Teaching / authoring"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Open Source"
+    },
+    {
+      "name": "Entrepreneurship"
+    },
+    {
+      "name": "Football"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Nice try bro, your CV was approved! Tests are good, not very worth it on a CV though\" && exit 1",
+    "preexport-pdf": "node scripts/spell-check.js",
+    "preexport-html": "node scripts/spell-check.js",
+    "export-pdf": "resume export resume.pdf",
+    "export-html": "resume export resume.html",
+    "serve": "resume serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "enquirer": "^2.3.6",
+    "jsonresume-theme-flat": "^0.3.7",
+    "resume-cli": "^3.0.4",
+    "spellchecker": "^3.7.1"
+  }
+}
